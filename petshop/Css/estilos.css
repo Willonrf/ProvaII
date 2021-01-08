@@ -1,3 +1,43 @@
 .fundo{
-    background-color: dodgerblue;
+    background-color: black;
+}
+.escrita{
+    color: aliceblue;
+    font-size: 13px;
+}
+.fundo_dog{
+    background-image:url('imagens/dog.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+#botao1{
+    color: aliceblue;
+    margin-left: 50px;
+    font-size: 20px;
+}
+#botao2{
+    color: aliceblue;
+    margin-left: 50px;
+    font-size: 20px;
+}
+#voltar{
+    margin-top: 20px;
+}
+#cadastrar{
+    margin-top: 20px;
+}
+#borda{
+    width:1200px;
+    border:2px solid white;
+    padding: 5px;
+    margin-top: 50px;
+    border-radius: 13px;
+}
+.cont{
+    padding: 10px 30px 10px 10px;
+    font-size: 20px;
+    color: aliceblue;
 }
